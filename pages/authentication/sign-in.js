@@ -1,4 +1,4 @@
-<script src="https://cdn.tailwindcss.com"></script>
+{/* <script src="https://cdn.tailwindcss.com"></script> */}
 // import node module libraries
 import { Row, Col, Card, Form, Button, Image } from "react-bootstrap";
 import Link from "next/link";
