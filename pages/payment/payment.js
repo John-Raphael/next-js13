@@ -1,3 +1,14 @@
+//import firebase
+// import { db } from '../config/firebase';
+// import { collection, getDocs } from 'firebase/firestore';
+
+// export async function getServerSideProps() {
+//   const querySnapshot = await getDocs(collection(db, "your_collection_name"));
+//   const data = querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+
+
+
+
 // import node module libraries
 import Link from "next/link";
 import { Col, Row, Container, Image, Table } from "react-bootstrap";
